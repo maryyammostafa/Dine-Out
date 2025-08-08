@@ -1,0 +1,14 @@
+body{
+    font-family: "Poppins", sans-serif;
+    background: linear-gradient(to right, #2c5364, #203a43, #0f2027);
+    color: #fff;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: "Dancing Script", cursive;
+}
