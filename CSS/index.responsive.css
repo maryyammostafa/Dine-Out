@@ -13,7 +13,7 @@
     }
     header .carousel .carousel-inner .carousel-item:nth-of-type(2) .container .row .part1 .img{
         width: 40%;
-        transform: translateY(-300%);
+        transform: translateY(-350%);
     }
     header .carousel .carousel-inner .carousel-item:nth-of-type(2) .container .row .part1 h2{
         font-size: 55px;
@@ -378,7 +378,7 @@
         overflow: initial;
     }
     #Menu .row .nav button{
-        padding: 20px 16px;
+        padding: 18px 16px;
         overflow: hidden;
     }
     #Menu .row .nav button:nth-of-type(1){
@@ -430,7 +430,7 @@
     }
 
     #Menu .row .nav button{
-        padding: 27px 16px;
+        padding: 25px 16px;
     }
     #Menu .row .row .item .body .row h5{
         font-size: 14px;

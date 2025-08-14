@@ -641,7 +641,7 @@ header .carousel>button:hover i{
     background: radial-gradient(rgb(44, 83, 100), rgb(32, 58, 67), rgb(15, 32, 39));
     border: 1px solid #fff;
     border-radius: 0;
-    padding: 30px 16px;
+    padding: 28px 16px;
     position: relative;
     overflow: hidden;
 }
@@ -766,7 +766,6 @@ header .carousel>button:hover i{
     left: 0;
     opacity: 1;
 }
-
 
 /* -------TEAM SECTION------- */
 
