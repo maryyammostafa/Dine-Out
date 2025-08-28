@@ -1,5 +1,7 @@
 body{
     font-family: "Poppins", sans-serif;
+    background: #0f2027;
+    background: -webkit-linear-gradient(to right,#2c5364,#203a43,#0f2027);
     background: linear-gradient(to right, #2c5364, #203a43, #0f2027);
     color: #fff;
 }
@@ -7,7 +9,9 @@ body::-webkit-scrollbar{
     width: 16px;
 }
 body::-webkit-scrollbar-track{
-    background: linear-gradient(to right,#2c5364,#203a43,#0f2027);
+    background: #0f2027;
+    background: -webkit-linear-gradient(to right,#2c5364,#203a43,#0f2027);
+    background: linear-gradient(to right, #2c5364, #203a43, #0f2027);
 }
 body::-webkit-scrollbar-thumb{
     background-color: #f1b601;
